@@ -9,11 +9,11 @@ Gun (G) shoots Snake (S), so Gun wins.
 Water (W) douses Gun (G), so Water wins.
 Game Rules:
 Player choices:
-s for Snake
-w for Water
-g for Gun
-Computer choice: For now, the computer's choice is hardcoded to "Water".
+• s for Snake
+• w for Water
+• g for Gun
+• Computer choice: For now, the computer's choice is hardcoded to "Water".
 How to Play:
-Run the program.
-Enter your choice (s, w, or g).
-The game will compare the player's choice with the computer's choice and display the outcome.
+1.Run the program.
+2.Enter your choice (s, w, or g).
+3.The game will compare the player's choice with the computer's choice and display the outcome.
